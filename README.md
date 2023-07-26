@@ -46,6 +46,6 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 ### Some Statistics
 
 <div align="center">
-  ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-2584&show_icons=true&theme=dark)
+  [![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-2584&show_icons=true&theme=dark)
 </div>
 
