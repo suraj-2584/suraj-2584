@@ -1,4 +1,4 @@
-### Hi there, I'm Suraj 👋
+## Hi there, I'm Suraj 👋
 
 An undergraduate student at SSN College of Engineering Chennai. I'm a full stack developer, mobile application developer and a competitive programmer. I am always excited to tackle new challenges, explore emerging technologies, and contribute my expertise to projects that make a positive impact on people's lives. 
 
@@ -32,7 +32,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 <br>
 
-## My Interests
+### My Interests
 <details>
   <summary>View my interests by clicking here</summary>
   <br> 
@@ -42,4 +42,10 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
         <li> <a href = "https://github.com/suraj-2584/contest-reminder" target="_blank">Discord Bot</a></li>
     </ul>
 </details>
+
+### Some Statistics
+
+<div align="center">
+  ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-2584&theme=dark&hide=contribs,prs)
+</div>
 
