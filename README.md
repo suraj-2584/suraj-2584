@@ -3,7 +3,8 @@
 An undergraduate student at SSN College of Engineering Chennai. I'm a full stack developer, mobile application developer and a competitive programmer. I am always excited to tackle new challenges, explore emerging technologies, and contribute my expertise to projects that make a positive impact on people's lives.
 
 <br>
-## My skills
+
+### My skills
 
 <br>
 
@@ -15,17 +16,14 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 <br>
 
-<!--
-**suraj-2584/suraj-2584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📫 **How to reach me: -** [surajpbksr1@gmail.com](mailto:surajpbksr1@gmail.com)
+- 😄 **Pronouns: -** He/Him 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  [![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-2584)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
