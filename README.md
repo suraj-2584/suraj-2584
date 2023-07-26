@@ -53,4 +53,19 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 [![GitHub Streak](https://streak-stats.demolab.com/?user=suraj-2584&theme=dark)](https://git.io/streak-stats)
 
 </div>
+<br>
+
+### Let's Connect
+
+<br>
+<br>
+<p align = 'center'>
+
+  <a href = 'surajpbksr1@gmail.com' target="_blank"> 
+    <img src = 'https://user-images.githubusercontent.com/73932121/156936080-302b8401-fced-44ec-a759-aa17e3476991.svg' alt = "Mail Me">
+  </a>
+  <a href = 'https://www.linkedin.com/in/suraj2584/' target="_blank"> 
+    <img src = 'https://user-images.githubusercontent.com/73932121/156936120-7d41b2a8-1d04-4fb4-b2db-de468965799f.svg' alt = "View My LinkedIn">
+  </a>
+</p>
 
