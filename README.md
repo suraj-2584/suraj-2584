@@ -25,6 +25,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 ### Top languages used
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-2584)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=suraj-2584&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
