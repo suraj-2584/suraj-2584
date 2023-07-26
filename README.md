@@ -50,7 +50,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
   
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Vishal1&theme=dark)](https://git.io/streak-stats)
+ [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
