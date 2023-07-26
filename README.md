@@ -39,7 +39,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
     <ul>
         <li><a href = "https://codeforces.com/profile/suraj10" target="_blank">Competitive Programming</a></li>
         <li> <a href = "https://github.com/suraj-2584?tab=repositories" target="_blank">Full Stack Development</a></li>
-        <li> <a href = "https://github.com/suraj-2584/contest-reminder" target="_blank">Discord Bot</a></li>
+        <li> <a href = "https://github.com/suraj-2584/contest-reminder" target="_blank">Discord Bots</a></li>
     </ul>
 </details>
 
