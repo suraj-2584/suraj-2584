@@ -4,7 +4,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 <br>
 
-### My skills
+### My Skills
 
 <br>
 
@@ -23,7 +23,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 <br>
 
-### Top languages used
+### Top Languages Used
 <div align="center">
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-2584&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,16 +32,14 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
 
 <br>
 
-## ⭐ Interests & Stats
+## My Interests
 <details>
-  <summary>Click here to view my interests!</summary>
+  <summary>View my interests by clicking here</summary>
   <br> 
     <ul>
-        <li> 🐍 <a href = "https://www.hackerrank.com/thenithinbalaji" target="_blank">Python & C++</a></li>
-        <li> 📇 <a href = "https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Open Source</a></li>
-        <li> 🌐 <a href = "https://github.com/stars/thenithinbalaji/lists/my-web-dev-repos" target="_blank">Web Development</a></li>
-        <li> 💬 <a href = "https://discordbotlist.com/users/756511707228143646" target="_blank">Chat Bots</a></li>
-        <li> 💻 Competitive Programming </li>
+        <li><a href = "https://codeforces.com/profile/suraj10" target="_blank">Competitive Programming</a></li>
+        <li> <a href = "https://github.com/suraj-2584?tab=repositories" target="_blank">Full Stack Development</a></li>
+        <li> <a href = "https://github.com/suraj-2584/contest-reminder" target="_blank">Discord Bot</a></li>
     </ul>
 </details>
 
