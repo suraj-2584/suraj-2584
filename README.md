@@ -42,10 +42,10 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
         <li> <a href = "https://github.com/suraj-2584/contest-reminder" target="_blank">Discord Bot</a></li>
     </ul>
 </details>
-
+<br>
 ### Some Statistics
 
 <div align="center">
-  [![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-2584&show_icons=true&theme=dark)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=suraj-2584&theme=dark)](https://git.io/streak-stats)
 </div>
 
