@@ -43,6 +43,7 @@ An undergraduate student at SSN College of Engineering Chennai. I'm a full stack
     </ul>
 </details>
 <br>
+
 ### Some Statistics
 
 <div align="center">
